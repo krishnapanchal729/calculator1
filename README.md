@@ -6,7 +6,8 @@
 </body>
 </html>
 
-![Uploading preview.gif…]()
+![preview](https://user-images.githubusercontent.com/84672744/119305584-8bade100-bc86-11eb-81e5-11c7fa0a38d1.gif)
+
 
 
 
