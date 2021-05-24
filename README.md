@@ -2,7 +2,7 @@
 # calculator1
 <html>
 <body>
-  <i><strong>A SIMPLE CALCULATOR [iphonic] </strong></i>
+  <i><strong>A SIMPLE CALCULATOR [IPHONIC] </strong></i>
 </body>
 </html>
 
