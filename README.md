@@ -4,4 +4,4 @@
 <i>A SIMPLE CALCULATOR</i>
 </body>
 </html>
-![Preview](https://github.com/krishnapanchal729/calculator1/blob/main/preview.gif?raw=true)
+![Preview](https://github.com/krishnapanchal729/calculator1/blob/main/preview.gif)
